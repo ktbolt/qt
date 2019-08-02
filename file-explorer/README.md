@@ -1,2 +1,2 @@
-# qt example of create a file browser.
+# qt example of creating a file browser.
 
